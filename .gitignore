@@ -1,0 +1,24 @@
+# Arquivos binários
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Diretório de teste
+test
+
+# Diretório de fornecedores
+vendor/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Diretório que contém arquivos compilados
+bin/
+
+# Diretório que contém arquivos de objeto e arquivos de cache
+obj/
